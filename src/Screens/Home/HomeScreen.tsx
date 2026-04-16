@@ -14,6 +14,7 @@ export default function HomeScreen({ email, navigation }: any) {
         <Text style={styles.email}>{email}</Text>
       </View>
 
+      
       {/* Card Section */}
       <View style={styles.card}>
         <Text style={styles.cardTitle}>Dashboard</Text>
